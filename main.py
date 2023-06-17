@@ -82,8 +82,3 @@ while(True):
         case _:
             
             print("Esta no es una de las opciones, intenta de nuevo\n")
-            
-                
-
-
-
